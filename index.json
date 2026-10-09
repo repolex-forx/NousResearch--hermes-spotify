@@ -1,0 +1,11 @@
+{
+  "org": "NousResearch",
+  "repo": "hermes-spotify",
+  "versions": [
+    {
+      "commit": "2f39a03ca83c5e36566018d888e81b46a9ee6371",
+      "tag": "main",
+      "parsed_at": "2026-10-09T03:48:33.761596+00:00"
+    }
+  ]
+}
